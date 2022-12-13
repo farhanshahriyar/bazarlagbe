@@ -7,7 +7,7 @@ const Banner = () => {
         <div>
             <section className="banner-container">
                 <div className="banner">
-                    <img src={banner1} alt=""/>
+                    <img src={banner2} alt=""/>
                         <div className="content">
                             <h3>special offer</h3>
                             <p>upto 45% off</p>
@@ -15,7 +15,7 @@ const Banner = () => {
                         </div>
                 </div>
                 <div className="banner">
-                    <img src={banner2} alt=""/>
+                    <img src={banner1} alt=""/>
                         <div className="content">
                             <h3>limited offer</h3>
                             <p>upto 50% off</p>
